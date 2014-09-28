@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>pplog a year ago</string>
+	<key>connections</key>
+	<dict>
+		<key>C056F0FC-7DA9-4E99-AB8A-342F38E3C8E3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BCE2F852-29CA-4A4D-8EE2-BA326417EE78</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>ken_c_lo</string>
+	<key>description</key>
+	<string>Open your pplog written just a year ago</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>pplog a year ago</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>127</integer>
+				<key>script</key>
+				<string>ruby pplog_a_year_ago.rb</string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>BCE2F852-29CA-4A4D-8EE2-BA326417EE78</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>ppp</string>
+				<key>subtext</key>
+				<string>Open your poem written just 1 year ago</string>
+				<key>text</key>
+				<string>pplog a year ago</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>C056F0FC-7DA9-4E99-AB8A-342F38E3C8E3</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string></string>
+	<key>uidata</key>
+	<dict>
+		<key>BCE2F852-29CA-4A4D-8EE2-BA326417EE78</key>
+		<dict>
+			<key>ypos</key>
+			<real>10</real>
+		</dict>
+		<key>C056F0FC-7DA9-4E99-AB8A-342F38E3C8E3</key>
+		<dict>
+			<key>ypos</key>
+			<real>10</real>
+		</dict>
+	</dict>
+	<key>webaddress</key>
+	<string>https://pplog.net</string>
+</dict>
+</plist>

@@ -7,5 +7,6 @@ Download [pplog a year ago.alfredworkflow](https://github.com/taea/alfred2-pplog
 
 ## Usage
 
-Keyword: ```ppp``` and return.
+Type keyword ```ppp``` and return.
+
 Then your browser will open your past poem written just a year ago.
